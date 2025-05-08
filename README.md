@@ -22,19 +22,16 @@
 
 ```yaml
 name: Abhishek Pathak
-located_in: New Delhi, India 
-current_job: Software Consultant
+located_in: Remote, India 
+current_job: Tech. Lead
 education:
   [
-    "Self-Taught Data Engineer",
+    "Devops Engineer",
     "Bachelor's in Information Technology Engineering"
   ]
 
 fields_of_interests:
   [
-    "Data Engineering and Development",
-    "Data Science",
-    "Machine Learning",
     "Cyber Security",
     "Pentester",
     "Stock Market Research"
@@ -42,14 +39,13 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Full Stack Data Engineer"
+    "Full Stack Devops Engineer"
     "DevOps Solutions",
     "Aws",
+    "GCP",
     "Azure",
     "Python"
-    "DataBricks"
     "Certified Ethical Hacker"
-    "Intern - Internet Of Things",
   ]
 
 hobbies: ["Gaming", "Cinema", "Cricket", "Comedy"]
